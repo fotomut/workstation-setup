@@ -9,6 +9,7 @@ brew install git-together
 brew install vim
 
 brew cask install gitup
+brew cask install fork
 brew cask install rowanj-gitx
 brew cask install sourcetree
 

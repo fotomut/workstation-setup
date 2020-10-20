@@ -8,6 +8,7 @@ brew install git-together
 
 brew install vim
 
+brew cask install gitup
 brew cask install rowanj-gitx
 brew cask install sourcetree
 
@@ -15,6 +16,8 @@ echo
 echo "Setting global Git configurations"
 git config --global core.editor /usr/local/bin/vim
 git config --global transfer.fsckobjects true
+git config --global fetch.fsckobjects true
+git config --global receive.fsckobjects true
 
 mkdir -p ~/.git_templates
 git config --global init.templateDir ~/.git_templates

@@ -1,5 +1,7 @@
 $if Bash
+  ## arrow up
   "\e[B": history-search-forward
+  ## arrow down
   "\e[A": history-search-backward
 $endif
 

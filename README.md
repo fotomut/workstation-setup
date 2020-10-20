@@ -44,10 +44,11 @@ If you're setting up an engineering machine choose which languages to install:
 
 ```sh
 # For Labs developers (remove unnecessary languages when running command)
-./setup.sh java ruby node golang python c docker
+./setup.sh java ruby node golang python c
 
 # For Data developers
-./setup.sh c golang java docker
+./setup.sh c golang java
+./setup.sh c golang java
 
 # For .net
 ./setup.sh dotnet

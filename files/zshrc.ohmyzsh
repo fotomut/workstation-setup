@@ -17,6 +17,8 @@ plugins=(
   autojump
   git
   common-aliases
+  docker
+  docker-compose
 )
 
 # Plugins need to be defined before initialising oh my zsh

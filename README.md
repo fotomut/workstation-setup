@@ -44,7 +44,7 @@ If you're setting up an engineering machine choose which languages to install:
 
 ```sh
 # For Labs developers (remove unnecessary languages when running command)
-./setup.sh java ruby node golang python c
+./setup.sh java ruby node golang python c cf
 
 # For Data developers
 ./setup.sh c golang java

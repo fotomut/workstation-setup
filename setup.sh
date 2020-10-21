@@ -27,7 +27,6 @@ brew cask install zoomus
 
 source ${MY_DIR}/scripts/common/git.sh
 source ${MY_DIR}/scripts/common/git-aliases.sh
-source ${MY_DIR}/scripts/common/cloud-foundry.sh
 source ${MY_DIR}/scripts/common/applications-common.sh
 source ${MY_DIR}/scripts/common/applications-custom.sh
 source ${MY_DIR}/scripts/common/unix.sh

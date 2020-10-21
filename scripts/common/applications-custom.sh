@@ -12,6 +12,7 @@ brew cask install imageoptim
 brew cask install the-unarchiver
 brew cask install fing
 brew cask install daisydisk
+brew cask install stats
 
 # Browsers
 brew cask install brave-browser
